@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Lactose Legion](https://github.com/zenolth/lactose-legion)
 
-- 👨‍💻 All of my projects are available at [zenolth.site](zenolth.site)
+- 👨‍💻 All of my projects are available at [zenolth.site](https://zenolth.site)
 
 - 📫 How to reach me **contact@zenolth.site**
 
